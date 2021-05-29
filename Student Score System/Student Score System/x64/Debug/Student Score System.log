@@ -1,0 +1,8 @@
+﻿  Program.cpp
+C:\Users\evond_p2gd0g3\OneDrive\Documents\univ\data structure\data structure Lab\Group 03 - Source Code - Student Score System\Student Score System\Page_Login.h(230,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\evond_p2gd0g3\OneDrive\Documents\univ\data structure\data structure Lab\Group 03 - Source Code - Student Score System\Student Score System\MainForm.h(217,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\evond_p2gd0g3\OneDrive\Documents\univ\data structure\data structure Lab\Group 03 - Source Code - Student Score System\Student Score System\MainForm.h(319,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\evond_p2gd0g3\OneDrive\Documents\univ\data structure\data structure Lab\Group 03 - Source Code - Student Score System\Student Score System\MainForm.h(421,22): warning C4101: 'ex': unreferenced local variable
+C:\Users\evond_p2gd0g3\OneDrive\Documents\univ\data structure\data structure Lab\Group 03 - Source Code - Student Score System\Student Score System\Page_Login.h(231): warning C4715: 'Student_Score_System::Page_Login::verifyLogin': not all control paths return a value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+  Student Score System.vcxproj -> C:\Users\evond_p2gd0g3\OneDrive\Documents\univ\data structure\data structure Lab\Group 03 - Source Code - Student Score System\x64\Debug\Student Score System.exe

@@ -1,0 +1,24 @@
+Reyvin
+reyvin
+reyvin
+S0001
+Computer Science and Technology
+4
+CST2019
+Design and Analysis of Algorithm;Database System;Course Work of Data Structures;Computer Organization and Architecture II;Principle of Compiler;Artificial Intelligence;Intermediate Chinese I (2);
+Ryan
+ryan
+ryan
+S0002
+Computer Science and Technology
+2
+CST2020
+Calculus (2);The Past, Present and Future of Machine Learning;Discrete Mathematics;Intercultural Communication;Chinese Speaking I (2);Java Program Design;Comprehensive Exercise of Advanced Language Program Design;Advanced Language Program Design (C++) (2);Basic Chinese I (2);
+Sarah
+sarah
+sarah
+S0004
+Computer Science and Technology
+2
+CST2020
+Calculus (2);The Past, Present and Future of Machine Learning;Discrete Mathematics;Intercultural Communication;Chinese Speaking I (2);Java Program Design;Comprehensive Exercise of Advanced Language Program Design;Advanced Language Program Design (C++) (2);Basic Chinese I (2);

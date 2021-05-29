@@ -1,0 +1,136 @@
+Computer Science and Technology
+1
+5
+Chinese Culture
+Computer Science and Technology
+1
+5
+Introduction to Computer Science
+International Economy and Trade
+1
+5
+Basic Chinese I (1)
+Computer Science and Technology
+1
+7
+Linear Algebra and Analytic Geometry
+Computer Science and Technology
+1
+5
+Chinese Speaking I (1)
+Computer Science and Technology
+1
+7
+Calculus (1)
+Computer Science and Technology
+1
+5
+Creative Design of Digital System
+Computer Science and Technology
+1
+7
+Advanced Language Program Design (C++) (1)
+Computer Science and Technology
+1
+5
+Development and Forecast of Computer Science and Technology
+International Economy and Trade
+2
+5
+Basic Chinese I (2)
+Computer Science and Technology
+2
+7
+Calculus (2)
+Computer Science and Technology
+2
+5
+The Past, Present and Future of Machine Learning
+Computer Science and Technology
+2
+7
+Discrete Mathematics
+Computer Science and Technology
+2
+5
+Intercultural Communication
+Computer Science and Technology
+2
+5
+Chinese Speaking I (2)
+Computer Science and Technology
+2
+7
+Java Program Design
+Computer Science and Technology
+2
+7
+Comprehensive Exercise of Advanced Language Program Design
+Computer Science and Technology
+2
+7
+Advanced Language Program Design (C++) (2)
+International Economy and Trade
+3
+5
+Intermediate Chinese I (1)
+Computer Science and Technology
+3
+7
+Mobile Application Development (Android)
+Computer Science and Technology
+3
+7
+Digital Logic
+Computer Science and Technology
+3
+7
+Data Structures
+Computer Science and Technology
+3
+5
+Probablity and Statistics
+Computer Science and Technology
+4
+7
+Design and Analysis of Algorithm
+Computer Science and Technology
+4
+7
+Database System
+Computer Science and Technology
+4
+7
+Course Work of Data Structures
+Computer Science and Technology
+4
+7
+Computer Organization and Architecture II
+Computer Science and Technology
+4
+7
+Principle of Compiler
+International Economy and Trade
+4
+5
+Intermediate Chinese I (2)
+Computer Science and Technology
+4
+7
+Artificial Intelligence
+Computer Science and Technology
+1
+5
+Basic Chinese I (1)
+Computer Science and Technology
+2
+5
+Basic Chinese I (2)
+Computer Science and Technology
+3
+5
+Intermediate Chinese I (1)
+Computer Science and Technology
+4
+5
+Intermediate Chinese I (2)
